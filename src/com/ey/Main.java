@@ -6,7 +6,7 @@ public class Main {
 
         SapGui SapObj = new SapGui();
 
-        //Initialize SapGui
+        //Initialize SapGui interface
         SapObj.initializeExistingSession(0,0);
 
         //Opening SE16 Transaction
